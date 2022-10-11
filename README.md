@@ -1,1 +1,1 @@
-# XEONCCZU
+# Z系列固件HA配置文件
